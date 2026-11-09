@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: rustconn 0.24.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-05 22:28+0200\n"
-"PO-Revision-Date: 2026-11-09 18:00+0500\n"
+"PO-Revision-Date: 2026-11-09 18:05+0500\n"
 "Last-Translator: Dmitriy Q <atsip-help@yandex.ru>\n"
 "Language-Team: TranslAster\n"
 "Language: ru_RU\n"
@@ -1457,7 +1457,7 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/dialog/passwords.rs:534
 msgid "Cannot Test"
-msgstr ""
+msgstr "Невозможно проверить"
 
 #: rustconn/src/dialogs/connection/dialog/passwords.rs:653
 #: rustconn/src/dialogs/connection/dialog/passwords.rs:720
@@ -1581,7 +1581,7 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:60 rustconn/src/dialogs/connection/dialog/rows.rs:63
 msgid "Delete property"
-msgstr ""
+msgstr "Удалить свойство"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:71
 msgid "Type:"
@@ -1780,7 +1780,7 @@ msgstr ""
 #: rustconn/src/dialogs/connection/dialog/rows.rs:1205 rustconn/src/dialogs/variables.rs:213
 #: rustconn/src/dialogs/variables.rs:217
 msgid "Delete variable"
-msgstr ""
+msgstr "Удалить значение"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:1203
 msgid "Remove variable override"
@@ -1805,7 +1805,7 @@ msgstr ""
 #: rustconn/src/dialogs/connection/dialog/rows.rs:1250 rustconn/src/dialogs/snippet.rs:374
 #: rustconn/src/dialogs/variables.rs:285
 msgid "Description:"
-msgstr ""
+msgstr "Описание:"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:1255 rustconn/src/dialogs/snippet.rs:201
 #: rustconn/src/dialogs/variables.rs:290
@@ -1870,7 +1870,7 @@ msgstr ""
 #: rustconn/src/dialogs/template.rs:558 rustconn/src/dialogs/wol.rs:93
 #: rustconn/src/window/edit_dialogs.rs:845
 msgid "Port"
-msgstr ""
+msgstr "Порт"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:185
 msgid "Inherit from group or global"
@@ -1893,7 +1893,7 @@ msgstr ""
 #: rustconn/src/dialogs/connection_wizard/auth_page.rs:388
 #: rustconn/src/dialogs/settings/secrets_tab/mod.rs:2287 rustconn/src/dialogs/template.rs:626
 msgid "Authentication"
-msgstr ""
+msgstr "Уунетификация"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:220
 #: rustconn/src/dialogs/connection/general_tab.rs:240
@@ -1902,7 +1902,7 @@ msgstr ""
 #: rustconn/src/window/connection_dialogs.rs:483 rustconn/src/window/copy_field_actions.rs:82
 #: rustconn/src/window/edit_dialogs.rs:854 rustconn/src/window/edit_group.rs:241
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:233
 #: rustconn/src/dialogs/connection/general_tab.rs:255
@@ -1925,7 +1925,7 @@ msgstr ""
 #: rustconn/src/dialogs/connection_wizard/connection_page.rs:129 rustconn/src/dialogs/template.rs:569
 #: rustconn/src/window/connection_dialogs.rs:706 rustconn/src/window/edit_group.rs:551
 msgid "Domain"
-msgstr ""
+msgstr "Домен"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:264
 msgid "Windows authentication"
@@ -1961,16 +1961,16 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/general_tab.rs:277 rustconn/src/window/edit_group.rs:1008
 msgid "Script"
-msgstr ""
+msgstr "Скрипт"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:287
 msgid "Password Source"
-msgstr ""
+msgstr "Источник пароля"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:294 rustconn/src/dialogs/variable_setup.rs:73
 #: rustconn/src/window/connection_dialogs.rs:529 rustconn/src/window/edit_group.rs:296
 msgid "Value"
-msgstr ""
+msgstr "Значение"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:301
 #: rustconn/src/dialogs/connection/general_tab.rs:305
@@ -2006,23 +2006,23 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/general_tab.rs:390 rustconn/src/dialogs/snippet.rs:216
 msgid "tag1, tag2, …"
-msgstr ""
+msgstr "tag1, tag2, …"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:396 rustconn/src/dialogs/export.rs:419
 #: rustconn/src/dialogs/snippet.rs:214 rustconn/src/dialogs/template.rs:573
 msgid "Tags"
-msgstr ""
+msgstr "Теги"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:407 rustconn/src/dialogs/export.rs:288
 #: rustconn/src/dialogs/export.rs:413 rustconn/src/window/batch_edit.rs:115
 msgid "Group"
-msgstr ""
+msgstr "Группа"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:428 rustconn/src/dialogs/export.rs:425
 #: rustconn/src/dialogs/snippet.rs:200 rustconn/src/dialogs/template.rs:516
 #: rustconn/src/window/connection_dialogs.rs:713 rustconn/src/window/edit_group.rs:1494
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #: rustconn/src/dialogs/connection/general_tab.rs:523
 msgid "Well-Known"
@@ -2065,7 +2065,7 @@ msgstr ""
 #: rustconn/src/dialogs/connection/kubernetes.rs:72
 #: rustconn/src/dialogs/connection_wizard/connection_page.rs:191
 msgid "Namespace"
-msgstr ""
+msgstr "Пространство имен"
 
 #: rustconn/src/dialogs/connection/kubernetes.rs:73
 msgid "Target namespace (default if empty)"
@@ -2183,7 +2183,7 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/logging_tab.rs:126
 msgid "Max Size (MB)"
-msgstr ""
+msgstr "Макс-ный размер (МБ)"
 
 #: rustconn/src/dialogs/connection/logging_tab.rs:127
 msgid "Maximum log file size (0 = no limit)"

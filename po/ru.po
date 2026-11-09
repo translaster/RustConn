@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: rustconn 0.24.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-05 22:28+0200\n"
-"PO-Revision-Date: 2026-11-09 17:47+0500\n"
+"PO-Revision-Date: 2026-11-09 18:00+0500\n"
 "Last-Translator: Dmitriy Q <atsip-help@yandex.ru>\n"
 "Language-Team: TranslAster\n"
 "Language: ru_RU\n"
@@ -1119,7 +1119,7 @@ msgstr "Локальная переменная"
 
 #: rustconn/src/dialogs/connection/data_tab.rs:37
 msgid "Use ${variable_name} syntax in connection fields"
-msgstr "Используйте синтаксис ${имя_переменной} в полях подключения"
+msgstr "Используйте синтаксис ${variable_name} в полях подключения"
 
 #: rustconn/src/dialogs/connection/data_tab.rs:50
 msgid "No variables defined"
@@ -1617,19 +1617,19 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:275 rustconn/src/window/edit_group.rs:2112
 msgid "Move up (higher priority)"
-msgstr ""
+msgstr "Переместить вверх (более высокий приоритет)"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:277 rustconn/src/window/edit_group.rs:2114
 msgid "Move rule up"
-msgstr ""
+msgstr "Переместить правило вверх"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:281 rustconn/src/window/edit_group.rs:2118
 msgid "Move down (lower priority)"
-msgstr ""
+msgstr "Переместить вниз (более низкий приоритет)"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:284 rustconn/src/window/edit_group.rs:2120
 msgid "Move rule down"
-msgstr ""
+msgstr "Переместить правило вниз"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:299 rustconn/src/window/edit_group.rs:2135
 msgid "Pattern:"
@@ -1637,7 +1637,7 @@ msgstr "Шаблон:"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:305 rustconn/src/window/edit_group.rs:2141
 msgid "Regex pattern (e.g., password:\\s*$)"
-msgstr ""
+msgstr "Шаблон регулярки (напр. password:\\s*$)"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:306 rustconn/src/window/edit_group.rs:2142
 msgid "Regular expression to match against terminal output"
@@ -1649,7 +1649,7 @@ msgstr "Ответ:"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:321 rustconn/src/window/edit_group.rs:2157
 msgid "Text to send (e.g., ${password}\\n)"
-msgstr ""
+msgstr "Текст для отправки (напр. ${password}\\n)"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:323 rustconn/src/window/edit_group.rs:2159
 msgid ""
@@ -1662,7 +1662,7 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:334 rustconn/src/window/edit_group.rs:2169
 msgid "Insert variable"
-msgstr ""
+msgstr "Ввести значение"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:345 rustconn/src/window/edit_group.rs:2181
 msgid "Built-in"
@@ -1695,7 +1695,7 @@ msgstr ""
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:424 rustconn/src/window/edit_group.rs:2262
 msgid "Priority:"
-msgstr ""
+msgstr "Приоритет:"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:433 rustconn/src/window/edit_group.rs:2271
 msgid "Higher priority rules are checked first"
@@ -1732,7 +1732,7 @@ msgstr "Команда:"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:604
 msgid "Command to send, e.g. sudo -i"
-msgstr ""
+msgstr "Команда для отправки, напр. sudo -i"
 
 #: rustconn/src/dialogs/connection/dialog/rows.rs:606
 msgid ""
